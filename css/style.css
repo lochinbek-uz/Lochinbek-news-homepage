@@ -168,7 +168,7 @@ body {
   }
 }
 /* hehdeuu */
-@media screen and (max-width: 512px) {
+@media screen and (max-width: 500px) {
   .container {
     padding: 0;
   }
